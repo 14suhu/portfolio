@@ -1,0 +1,37 @@
+body{
+    background-color:black;
+}
+section{
+    
+    padding:5px;
+    color:white;
+}
+.img{
+    border-radius:2500px;
+    float:right;
+    padding-right:10px;
+    height:200px;
+    width:200px;
+    
+}
+.topnav a{
+    float:left;
+    color:chocolate;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+    .topnav a:hover{
+        background-color: azure;
+        color: black;
+    }
+    
+.topnav a.active{
+    background-color: azure;
+    color:black;
+}
+
+.one{
+    padding-left:87%;
+}
